@@ -42,4 +42,4 @@ When using this code, or the ideas of BU-MHS, please cite the following paper
 
 ## Contact
 
-Please contact Mingze Niat firstname.lastname@uts.edu.au or [Wei Liu](https://wei-research.github.io/) at firstname.lastname@uts.edu.au if you're interested in collaborating on this research!
+Please contact Mingze Ni at firstname.lastname@uts.edu.au or [Wei Liu](https://wei-research.github.io/) at firstname.lastname@uts.edu.au if you're interested in collaborating on this research!
