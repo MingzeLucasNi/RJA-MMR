@@ -4,7 +4,7 @@ This repository contains Pytorch implementations of the Machine Learning Journal
 Recent advancements in NLP model vulnerabilities highlight the limitations of traditional adversarial example generation, often leading to detectable or ineffective attacks. Our study introduces the Reversible Jump Attack (RJA) and Metropolis-Hasting Modification Reduction (MMR) algorithms, aimed at crafting subtle yet potent adversarial examples. RJA broadens the search space for adversarial examples through randomization, optimizing the number of alterations. MMR then enhances these examples' stealthiness using the Metropolis-Hasting sampler. Our comprehensive experiments show RJA-MMR surpasses existing methods in attack efficacy, undetectability, and linguistic quality, marking a significant leap forward in adversarial research.
 
 <p align="center">
-<img src="https://github.com/MingzeLucasNi/RJA-MMR/blob/main/fig-flowchart.pdf" width=60% height=60%>
+<img src="https://github.com/MingzeLucasNi/RJA-MMR/blob/main/fig-flowchart.png" width=60% height=60%>
 </p>
 
 ## Requirements
