@@ -9,7 +9,7 @@ Recent advancements in NLP model vulnerabilities highlight the limitations of tr
 
 ## Requirements
 
-These experiments are done based on the Huggingface (https://huggingface.co/) and pytorch. To set up the proper environment, you may run the `requirements.txt` with the following command:
+These experiments are done based on the [Huggingface](https://huggingface.co/) and pytorch. To set up the proper environment, you may run the `requirements.txt` with the following command:
 ```
 pip install requirements.txt 
 ```
@@ -28,7 +28,7 @@ python mr_main.py
 
 ## Citation
 
-When using this code, or the ideas of BU-MHS, please cite the following paper
+When using this code, or the ideas of RJA-MMR, please cite the following paper
 <pre><code>@article{ni2024RJA,
   title={Reversible Jump Attack to Textual Classifiers with Modification Reduction},
   author={Mingze Ni, Zhensu Sun and Wei Liu},
